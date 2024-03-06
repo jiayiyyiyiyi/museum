@@ -1,0 +1,14 @@
+* {
+    margin : 0;
+    padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+div a{
+		font-size: 50px;
+		font-weight: bold;
+	    text-align: center;
+		color: black;
+
+}
+
